@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-section{
+    padding-top: 87px;
+   
+    
+}
+.nav-banner{
+    display: flex;
+}
+.banner-title{
+    padding-left: 120px;
+    padding-right: 854px;
+}
+.banner-itmes{
+    display: flex;
+    
+}
+.banner-itmes a{
+    text-decoration: none;
+}
+.nav-icon img {
+    width: 30px;
+}
